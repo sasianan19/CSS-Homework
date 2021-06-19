@@ -1,3 +1,8 @@
+.nav {
+	float:right;
+}
+
+
 .box1 {
 	background-color:DarkRed;
 }
@@ -19,8 +24,13 @@
 .L {
 	color:white;
 	display:inline;	
+	margin-left:5px;
+	text-decoration:none;
 }
 
+.container {
+	display:flex;
+} 
 
 
 .img {
@@ -37,17 +47,14 @@
 
 .box3 {
 	background-color:Gainsboro;
-	display:inline-block;
-	height:1000px;
-	width:450px;	
+	flex:30%;
+	padding:5px;	
 	
 }
 
 .box4 {
-	display:inline-block;
-	float:right;
-	height:1000px;
-	width:800px;
+	flex:70%;
+	padding:5px;	
 }
 
 .box5 {
