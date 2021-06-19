@@ -1,0 +1,63 @@
+.box1 {
+	background-color:DarkRed;
+}
+
+.main {
+	color:white;
+	text-align:center;	
+}
+
+.header {
+	padding:250px;
+}
+
+.box2 {
+	background-color:grey;
+}
+
+
+.L {
+	color:white;
+	display:inline;	
+}
+
+
+
+.img {
+	background-color:grey;
+	padding:75px;
+	
+}
+
+.img2 {
+	background-color:grey;
+	padding:20px;
+	margin:15px;
+}
+
+.box3 {
+	background-color:Gainsboro;
+	display:inline-block;
+	height:1000px;
+	width:450px;	
+	
+}
+
+.box4 {
+	display:inline-block;
+	float:right;
+	height:1000px;
+	width:800px;
+}
+
+.box5 {
+	background-color:WhiteSmoke;
+}
+
+.footer {
+	text-align:center;
+	padding:20px;	
+	font-size:20px;
+}
+
+
